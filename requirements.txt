@@ -7,3 +7,4 @@ matplotlib
 openpyxl
 xlsxwriter
 requests
+scikit-learn
